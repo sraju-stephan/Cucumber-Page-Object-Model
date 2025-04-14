@@ -1,0 +1,21 @@
+{
+  "firstName": "John",
+  "firstName": "Smith",
+  "age": 25,
+  "age": 26,
+  "phoneNumber": [
+    { "type": "home", "number": "212 555-1234" },
+    { "type": "fax", "number": "646 555-4567" }
+  ],
+
+  "info" : [
+            { "type": "home", "number": "212 555-1234" },
+    {
+      "subinfo" : [
+        {"subinfoone": "subinfoonevalue"}
+      ]
+    }
+
+  ]
+
+}
